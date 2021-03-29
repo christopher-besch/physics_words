@@ -1,5 +1,7 @@
 # Physics Words
 
+<img align="center" src="physics_words.png">
+
 The project I finished three days too late.
 
 Run the build script with `./build.sh` to compile the text from [text.txt](text.txt) into the physics simulation.
