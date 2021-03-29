@@ -1,6 +1,6 @@
 # Physics Words
 
-<img align="center" src="image.png">
+<img align="center" src="physics_words_2.png">
 
 The project I finished three days too late.
 
