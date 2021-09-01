@@ -1,4 +1,4 @@
-// hight: 8
+// height: 8
 // spacing: 3
 // block from https://www.messletters.com/en/big-text/
 -32
